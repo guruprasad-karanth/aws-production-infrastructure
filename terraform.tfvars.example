@@ -1,0 +1,5 @@
+ami_id      = "ami-xxxxxxxxxxxxxxxxx"
+key_name    = ""
+db_username = "admin"
+db_password = "REPLACE_WITH_REAL_PASSWORD"
+domain_name = "guruprasadkaranth.com"
